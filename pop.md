@@ -30,8 +30,6 @@
 
 ### Step 3: Plot Human Populations
 
-
-
 ```r
 	map('worldHires', xlim=c(-120,142), ylim=c(-12,72), col='gray', fill=FALSE)
 	
@@ -39,7 +37,6 @@
 	
 	box()
 ```
-
 <center>
 <img src= "step3.png" width=500px></img>
 <div align="left"> 
@@ -53,9 +50,7 @@
     col=c(alpha("orange", 0.6), alpha("blue", 0.6)), labels="")
 	
 	box()
-
 ```
-
 <center>
 <img src= "step4.png" width=500px></img>
 <div align="left"> 
@@ -72,9 +67,7 @@
 		}
 
 	box()
-
 ```
-
 <center>
 <img src= "step5.png" width=500px></img>
 <div align="left"> 
